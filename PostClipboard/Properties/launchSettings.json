@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PostClipboard": {
+      "commandName": "Project",
+      "commandLineArgs": "http://192.168.1.139:5000/clipboard/jsonpost"
+    }
+  }
+}
